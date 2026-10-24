@@ -1,27 +1,32 @@
 # Site spec
 
-Written by the Analyst from: interview. This is the spec of the sample person, Ada Example, who is fictional. The Analyst role replaces it with yours.
+Written by the Analyst from: CV and interview notes.
 
 ## Who
-Ada Example, frontend developer who likes fast, accessible web pages.
+Federica Andreazza, MSc in Artificial Intelligence | Data Science | Time Series Analysis.
+
+## Goal
+Find a job in data science, artificial intelligence, or data engineering (available from November 2026).
 
 ## For whom
-Recruiters and teams hiring a junior frontend developer.
+(a guess) Recruiters and engineering leads hiring data scientists, machine learning engineers, or data engineers.
 
 ## What a visitor should do
-Look at the projects on GitHub, then write an email.
+(a guess) Explore project repositories on GitHub and reach out via email.
 
 ## Language
 English (en).
 
 ## Sections
-- Bio: two paragraphs.
-- Projects: two.
-- Links: GitHub, LinkedIn, email.
-- CV: experience, education and skills.
+- First screen: the pitch, availability (open from November 2026), location (Maser, Italy), and languages (Italian native, English C1); no numeric highlights.
+- Bio: two paragraphs covering background in AI & data engineering, RAG Master's thesis, and project areas.
+- Projects: three projects with GitHub repositories (Walmart Sales Forecasting, Artwork Classification, Mood Disorder Risk).
+- Links: GitHub, LinkedIn, and Email.
+- CV: experience (Algoritmi Group), education (Master's and Bachelor's at Università Ca' Foscari Venezia, secondary diploma at IIS Einaudi-Scarpa), and skills.
+- Certifications and events: none.
 
 ## Left out on purpose
-Nothing.
+Projects without a public GitHub repository link (the in-progress RAG Master's thesis and CO₂ Venice) were left out of the projects section and featured in the bio instead. The certification listed in the CV was omitted because it lacked an issuing organisation and date.
 
 ## Later
-A blog, as an optional module.
+Nothing yet.
