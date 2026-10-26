@@ -10,17 +10,24 @@
     "actionUrl": "mailto:federicaandreazza@gmail.com"
   },
   "location": {
-    "city": "Maser",
+    "city": "Treviso, Veneto",
     "country": "Italy",
     "timeZone": "Europe/Rome"
   },
   "languages": [
-    { "name": "Italian", "level": "native" },
-    { "name": "English", "level": "C1" }
+    {
+      "name": "Italian",
+      "level": "native"
+    },
+    {
+      "name": "English",
+      "level": "C1"
+    }
   ],
   "bio": [
-    "I am a Master's student in Artificial Intelligence and Data Engineering at Università Ca' Foscari Venezia, currently working on my thesis on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs).",
-    "Curious and results-driven, I apply my background to projects that combine innovation with concrete data-driven insights. My work spans machine learning, time series analysis, dynamic pricing demand models, and environmental emission forecasting."
+    "I hold a Master’s degree in Artificial Intelligence and Data Engineering, with a thesis on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs).",
+    "Today I focus on agentic AI and its orchestration: designing systems where multiple LLM-powered agents plan, use tools, retrieve knowledge and collaborate to solve real-world tasks reliably.",
+    "Curious and results-driven, I’m looking to apply my academic background to projects that combine innovation, data-driven insights and meaningful impact."
   ],
   "projects": [
     {
@@ -40,9 +47,18 @@
     }
   ],
   "links": [
-    { "label": "GitHub", "url": "https://github.com/Federicandreazza" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/federica-andreazza-b59052181" },
-    { "label": "Email", "url": "mailto:federicaandreazza@gmail.com" }
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Federicandreazza"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/federica-andreazza-b59052181"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:federicaandreazza@gmail.com"
+    }
   ],
   "cv": {
     "experience": [
